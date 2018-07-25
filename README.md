@@ -21,7 +21,7 @@ Load testing APIs
    jmeter -g pathTo\UserServiceTestResults.csv -o pathTo\UserServiceTestResults
    ```
 
-# SetUp to hit nginx-ingress directly I have used gcloud so that is what i have here . 
+# SetUp to hit nginx-ingress directly (i used gcloud). 
 1. Install kubectl
 ```commandline
  gcloud components install kubectl
