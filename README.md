@@ -4,7 +4,7 @@ Load testing APIs
 # Getting Started
 1. Install Jmeter https://jmeter.apache.org/
 2. Open .jmx file in jmeter and run  test. 
-3. This is optional unless you are doing it on cloud. To run tests against any server you will need jwt. You can get jwt from  swagger request. 
+3. This is optional unless you are doing it on cloud. To run tests against any server you will need jwt. You can get jwt from  swagger request. Or there are other ways, just get he jwt already . 
 4. This is optional unless you are doing it on cloud. Add the jwt to corresponding Http Header Manager.
 5. This is optional unless you are doing it on cloud. If you want to bypass load balancer, setup to hit  nginx-ingress directly
 6. Should be able to run tests now. 
